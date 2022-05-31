@@ -27,4 +27,4 @@ for i in range(1, 4):
         print("Você errou! Tente novamente\n")
         tentativas -= 1
 
-print("Fim de Jogo")
+print("Fim de Jogo - O número sorteado foi", segredo)

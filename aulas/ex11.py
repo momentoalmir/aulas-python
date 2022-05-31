@@ -1,11 +1,6 @@
 # Estrutura de dados - Listas
-frutas = ['laranja',
-          'amora',
-          'morango',
-          'banana',
-          'amora',
-          'mamão',
-          'banana']
+frutas = ['laranja','amora','morango','banana',
+          'amora','mamão','banana']
 
 for fruta in frutas:
     print(fruta)
